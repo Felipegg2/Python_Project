@@ -28,7 +28,9 @@ The collected data is analyzed to generate insightful charts and visualizations.
 ## *Results*
 The results of the web scraping and data analysis are presented in the following:
 
-### [Google Colaboratory Notebook:](https://colab.research.google.com/drive/1SGULtSjdpXjII-JdNGPaSjBJWXcehxa1?usp=drive_link): This notebook contains all the Python code necessary to develop this project, including how web scraping was achieved and the step-by-step guide to creating a [*CSV file*](https://github.com/Felipegg2/Python_Project/blob/main/largest%20companies%20in%20Canada.csv). Note: You can find the CSV file generated through web scraping in this repository.
+### [Google Colaboratory Notebook:](https://colab.research.google.com/drive/1SGULtSjdpXjII-JdNGPaSjBJWXcehxa1?usp=drive_link) This notebook contains all the Python code necessary to develop this project, including how web scraping was achieved and the step-by-step guide to creating a [*CSV file*](https://github.com/Felipegg2/Python_Project/blob/main/largest%20companies%20in%20Canada.csv). Note: You can find the CSV file generated through web scraping in this repository.
+
+or, you might check the code on this [URL](https://github.com/Felipegg2/Python_Project/blob/main/python_project.ipynb)
 
 ### Four charts developed with Matplotlib:
 
