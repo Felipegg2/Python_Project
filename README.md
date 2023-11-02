@@ -115,6 +115,9 @@ Enjoy exploring, analyzing, and responsibly scraping data with your projects!
 ## **Deep gratitude to [Cantek Canada](https://www.cantekcanada.com/) and its instructor, Will Edwards, for all supports and guiance in our path in data analysis.**
 
 
+## Thanks for your visit!
+
+
 
 
 
