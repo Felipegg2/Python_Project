@@ -82,7 +82,7 @@ Finally, **Brookfield Asset Management** is categorized under the finance sector
 
    ### 📈 Scatter plot: Illustrates the correlation between companies' values and their profits.
 
-The correlation between these variables was 0.865, signifying a strong positive relationship between the data in both of them. Therefore, it can be inferred that as a company's size increases, its profits are more likely to increase as well.
+The correlation between these variables was 0.865, signifying a strong positive relationship between the data in both of them. Therefore, it can be inferred that as a company's value increases, its profits are more likely to increase as well.
    
 
 ![image](https://github.com/Felipegg2/Python_Project/assets/147356131/65c18713-58aa-4f45-8042-b8e4acf64a71)
@@ -106,6 +106,15 @@ The X-axis is represented in billion USD.
 
 
 ## **Contributing**
-Contributions to this project are welcome. If you have ideas for improvements, bug fixes, or additional features, feel free to open an issue or submit a pull request.
+Contributions to this project are welcome. If you have ideas for improvements or additional features, feel free to open an issue or submit a pull request.
 
-Enjoy exploring, analyzing, and responsibly scraping data with this project! If you have any questions or need further assistance, please don't hesitate to reach out.
+Enjoy exploring, analyzing, and responsibly scraping data with your projects!
+
+
+
+## **Deep gratitude to [Cantek Canada](https://www.cantekcanada.com/) and its instructor, Will Edwards, for all supports and guiance in our path in data analysis.**
+
+
+
+
+
